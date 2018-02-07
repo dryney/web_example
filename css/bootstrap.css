@@ -38,6 +38,11 @@ audio:not([controls]) {
   display: none;
   height: 0;
 }
+ul {
+display: block;
+list-style-type: disc;
+margin: 1em 0 1em 0;
+padding-start: 40px; }
 [hidden],
 template {
   display: none;

@@ -1,6 +1,12 @@
 body {
     padding-top:50px;
 }
+ul {
+display: block;
+list-style-type: disc;
+margin: 1em 0 1em 0;
+padding-start: 40px; }
+
 #custom_carousel .item {
 
     padding-top:50px;
