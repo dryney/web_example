@@ -1,11 +1,6 @@
 body {
     padding-top:50px;
 }
-ul {
-display: block;
-list-style-type: disc;
-margin: 1em 0 1em 0;
-padding-start: 40px; }
 
 #custom_carousel .item {
 
@@ -43,7 +38,9 @@ padding-start: 40px; }
 .featurette-alignment{
   padding-left: 50px;
 }
-
+.featurette-fluid{
+  margin: 80px 0;
+}
 .img-sm {
  width: 46px;
  height: 46px;
@@ -123,4 +120,11 @@ padding-start: 40px; }
 }
 .mar-top {
  margin-top: 15px;
+}
+.frame-abc {
+border:none;
+overflow:hidden;
+margin:0;
+height:230px;
+width:570px;
 }
